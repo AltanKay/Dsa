@@ -1,11 +1,26 @@
 # Project Title 
+Data analytics portfolio Project
+
 ## Overview 
 
-One-paragraph summary of the problem & approach. 
+Data analytics portfolio is your secret weapon when applying for potential positions. It should not only show off your skills and experience but give your interviewers insight into how you tackle data analytics problems. Your portfolio should highlight to hiring managers how you thought about, worked through, and visualized your results. In this final portfolio project, you’ll use your understanding of data analytics and visualization to answer a question about a topic of your choosing.
 
 ## Goals 
-- Goal 1 
-- Goal 2 
+- Complete a project to add to a portfolio
+- Use Git version control
+- Use Jupyter Notebook to communicate findings
+- Run an end-to-end data analytics project
+- Become familiar with data analytics workflows
+
+## Prerequisites:
+Python Fundamentals
+Data Acquisition
+Data Manipulation with Pandas
+Data Wrangling and Tidying
+Summary Statistics
+Hypothesis Testing
+Data Visualization
+Communicating Data Analysis Findings
 
 ## Data 
 - Source: [link or citation] 
