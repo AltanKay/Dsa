@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual envs
+.venv/
+env/
+venv/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Data (if you don't want to commit raw data)
+data/raw/
