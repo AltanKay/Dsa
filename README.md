@@ -44,23 +44,23 @@ The project was completed as part of my **Data Analytics Portfolio**, demonstrat
 
 ## 🧰 Project Structure
 
-dsa_final_project/
-│
-├── data/
-│ ├── raw/ # Original dataset
-│ └── processed/ # Cleaned data (if applicable)
-│
-├── notebooks/
-│ └── spotify_analysis.ipynb # Main analysis notebook
-│
-├── src/ # Helper scripts (data loading, etc.)
-│
-├── figures/ # Plots and visualizations
-│
-├── reports/ # Summary or PDF exports (optional)
-│
-├── README.md # Project documentation (this file)
-└── .gitignore
+dsa_final_project/  
+│  
+├── data/  
+│ ├── raw/ # Original dataset  
+│ └── processed/ # Cleaned data (if applicable)  
+│  
+├── notebooks/  
+│ └── spotify_analysis.ipynb # Main analysis notebook  
+│  
+├── src/ # Helper scripts (data loading, etc.)  
+│  
+├── figures/ # Plots and visualizations  
+│  
+├── reports/ # Summary or PDF exports (optional)  
+│  
+├── README.md # Project documentation (this file)  
+└── .gitignore  
 
 ## 🧾 Results Summary
 
