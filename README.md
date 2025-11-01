@@ -69,10 +69,11 @@ These attributes align with real-world trends in streaming music, where upbeat, 
 
 ## 👨‍💻 Author
 
-Altan Kayabasi
+**Altan Kayabasi**  
 Data Analytics Enthusiast | Python | Data Visualization
 📫 altankayabasi3@gmail.com
-🌐 GitHub Profile: https://github.com/AltanKay
+🌐 [GitHub Profile](https://github.com/AltanKay)
+
 
 ## 🏷️ License
 
