@@ -62,6 +62,23 @@ dsa_final_project/
 ├── README.md # Project documentation (this file)
 └── .gitignore
 
+## 🧾 Results Summary
+
+The analysis revealed that songs with higher danceability, energy, and positive tone (valence) tend to be more popular.
+These attributes align with real-world trends in streaming music, where upbeat, energetic tracks dominate playlists.
+
+## 👨‍💻 Author
+
+Altan Kayabasi
+Data Analytics Enthusiast | Python | Data Visualization
+📫 altankayabasi3@gmail.com
+🌐 GitHub Profile: https://github.com/AltanKay
+
+## 🏷️ License
+
+This project is released under the MIT License.
+You are free to use, modify, and share it for educational or professional purposes.
+
 
 ## FIRST STUDY:
 # Project Title 
