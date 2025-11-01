@@ -17,3 +17,7 @@ venv/
 
 # Data (if you don't want to commit raw data)
 data/raw/
+
+git remote add origin https://github.com/AltanKay/Dsa.git
+git branch -M main
+git push -u origin main
